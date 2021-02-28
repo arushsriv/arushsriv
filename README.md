@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+Hi! My name is Arushi Srivastava and I am a freshman in the Engineering school majoring in Computer Science, and I am thinking about double majoring or minoring in Economics/Finance. I love to go for runs, bake desserts, and listen to music with friends!
+
 <!--
 **arushsriv/arushsriv** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
