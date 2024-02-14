@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-Hi! My name is Arushi Srivastava and I am a sophomore in the Engineering school majoring in Computer Science and minoring in Economics. I am also submatriculating and am getting my Masters in Data Science.
+Hi! My name is Arushi Srivastava and I am a senior in the Engineering school majoring in Computer Science and minoring in Economics and Data Science.
 
 <!--
 **arushsriv/arushsriv** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
